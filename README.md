@@ -9,6 +9,8 @@
 - 👾 Estudante de Sistemas de Informação pela Universidade de São Paulo(USP).
 
 ---
+
+[![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 ## 📌 Projetos em Destaque
 
 🔹 [Bee&Frog](https://github.com/JoseGhu/Crud-React)  
