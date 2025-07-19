@@ -13,7 +13,7 @@
 [![Pacman Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 ## 📌 Projetos em Destaque
 
-🔹 [Bee&Frog](https://github.com/JoseGhu/Crud-React)  
+🔹 [Bee&Frog](https://github.com/coutinhogit/Bee-Frog)  
 Jogo feito com Unity(C#) para introduzir meninas de 10 a 17 anos a programação.
 
 
