@@ -18,11 +18,11 @@ Jogo feito com Unity(C#) para introduzir meninas de 10 a 17 anos a programação
 
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coutinhogit&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutinhogit&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coutinhogit&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutinhogit&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
+
 
 
 ## 🚀 Principais Skills
