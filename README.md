@@ -16,6 +16,9 @@
 🔹 [Bee&Frog](https://github.com/coutinhogit/Bee-Frog)  
 Jogo feito com Unity(C#) para introduzir meninas de 10 a 17 anos a programação.
 
+🔹 [SimonFilmes](https://github.com/coutinhogit/filmes)  
+Site que possui o top 1000 filmes mais bem avaliados do IMDB, possuindo algumas funções de filtro
+
 🔹 [Portfolio Pessoal](https://github.com/coutinhogit/portfolio)  
 Um portfolio feito em ReactVite + CSS para você que quer ver um pouco mais do meu currículo.
 
