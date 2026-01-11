@@ -39,8 +39,10 @@ Um projeto que consiste na anÃ¡lise de dados em Python do mercado de games nos Ã
 
 ## ðŸš€ Principais Skills
 <div style="display: inline_block">
+ <img align="center" alt="tailwind" height="40" width="40" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
  <img align="right" alt="Csharp" height="100" width="100" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img align="right" alt="Csharp" height="100" width="100" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -48,7 +50,9 @@ Um projeto que consiste na anÃ¡lise de dados em Python do mercado de games nos Ã
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="center" alt="C" height="30" width="40" src="https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black">
+ 
+
 
 
   ---
