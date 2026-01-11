@@ -13,6 +13,9 @@
 
 ## 📌 Projetos em Destaque
 
+🔹 [FlashCards - Estuda.ai](https://github.com/coutinhogit/flashcards-estuda-ai-)  
+Site de FlashCards para estudantes de todo o Brasil!
+
 🔹 [Bee&Frog](https://github.com/coutinhogit/Bee-Frog)  
 Jogo feito com Unity(C#) para introduzir meninas de 10 a 17 anos a programação.
 
