@@ -40,7 +40,7 @@ Um projeto que consiste na análise de dados em Python do mercado de games nos �
 ## 🚀 Principais Skills
 <div style="display: inline_block">
  <img align="right" alt="Csharp" height="100" width="100" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img align="right" alt="Csharp" height="100" width="100" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+ <img align="right" alt="Csharp" height="100" width="100" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
